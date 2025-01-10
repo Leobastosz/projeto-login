@@ -50,3 +50,11 @@ div#form {
     display: block;
     padding: 10px;
 }
+
+form {
+    padding-top: 30px;
+}
+
+input#botao_enviar{
+    margin-top: 20px;
+}
