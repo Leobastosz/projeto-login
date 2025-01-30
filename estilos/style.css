@@ -58,3 +58,33 @@ form {
 input#botao_enviar{
     margin-top: 20px;
 }
+
+input[type=submit] {
+    display: block;
+    width: 90%;
+    height: 30px;
+    background-color: #49a09d;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+
+input[type=submit]:hover {
+    background-color: #387a78;
+}
+
+form > a {
+    display: block;
+    width: 90%;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #49a09d;
+    color: white;
+    border-radius: 6px;
+    font-size: 1em;
+    padding-top: 3px;
+}
+
